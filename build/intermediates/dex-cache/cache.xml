@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\a6dc9c4a707bc62bcd1b30de46e86f0fd608cb09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_3ca7d8d68b059e2048b086c85485bd45a45f30cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\dd330a914525067be8c774b4f688f2c7e3a39098\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_8662e1ae1c477e76478d21b90f19cdc0057984f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\gson-2.6.1_0e367f7c6745e32e0be73b9cc142edba7f1d8c17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\1aa634922f5e4f21b0c7ea12417304727ec6a4c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_0ee3682237eb5f916b8d4c2d3a726fa4c96f0252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_da950419b9787f70968b34701fbf5e2980c33aa9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_97defa0b59fb7ec3f58c52e3d324cf2eb01375dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\d8314349c8b749f25b50579f6cddfca1d6613f5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_b695a67e08bbef347e60f3bfd3a8dd59c8da5067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\1b5596ffe608ae6b972116d457a6d14deda01053\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_6f977f53ff91bd9a3deaaa8662b8f501349fdc2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\aac8a4800d16a7cdddf94ee8fb07f25f2937ddbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_ea71f25effd28ba18ee7f1dd484d76426c9687bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\71eb14233c6cf9fbbcb8a074164b2de3f6cc4289\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_a4383ee7584a1f62385bbe01c34510b6baf79343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\ec3f8b7faac7496803b2867bb2437de45b9a020a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_57c90b6f70d650bb3ad246beb71874a4d72da24f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7e75b9ee498cd980f153fc91238f879a17fd55">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_60eb13afef75fffde9aa89f2ab89f8c1a7f01781\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_d418b545c97d44d28d1e16730eac7c34cb45aa96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_de4a646ca453efd53589557820cfff55482253f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\okio-1.8.0_359573c96804a75c32213449f2320f97c8b61111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_9da8c634647207878d931a434ce75ad65ae97157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\0229fb77e1c881ecfefae6c126619c580fdd9be0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_12dc53bea4d895ab01598e24ad09610e7d1e833a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\606840e106de9d69e654555f01eaf5ebc6ddef8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_417a30de19ad9891d1dc5e567b7fd55c6dbfcf1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\529bbe3a34560caa9b69e39217c710c049b658ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\classes_e39c887b6269091bcfaa8edd2cab801b5abec9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\itconquest-itc-bell-app-312067e0375a\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c1ba5c7c7ce236b73dd746f930c5b1b696aa69e1.jar" />
+    </item>
+
+</items>
